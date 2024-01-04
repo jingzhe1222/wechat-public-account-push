@@ -36,7 +36,7 @@ const USER_CONFIG = {
           type: '生日', name: 'yjx', year: '2004', date: '10-15',
         },
         {
-          type: '节日', name: '相识纪念日', year: '2020', date: '09-03',
+          type: '节日', name: '相识纪念日', year: '2023', date: '09-03',
         },
       ],
       // 我们在一起已经有xxxx天了的配置
@@ -55,9 +55,9 @@ const USER_CONFIG = {
 
   CALLBACK_USERS: [
     {
-      name: '自己',
+      name: '',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'o-6kt6-TmVQaZ7nXEZ5LnCi5L3wc',
+      id: '',
     }
   ],
 
